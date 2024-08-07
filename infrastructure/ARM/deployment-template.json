@@ -473,7 +473,7 @@
           "properties": {
               "mode": "Incremental",
               "templateLink": {
-                  "uri": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-speech-sdk/master/samples/ingestion/ingestion-client/infra/main.bicep",
+                  "uri": "raw.githubusercontent.com/Azure-Samples/cognitive-services-speech-sdk/master/samples/ingestion/ingestion-client/infra/main.bicep",
                   "contentVersion": "1.0.0.0"
               },
               "parameters": {
